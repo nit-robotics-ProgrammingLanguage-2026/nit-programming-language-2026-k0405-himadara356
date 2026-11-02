@@ -13,8 +13,6 @@ int main(void) {
     π = 3.141592;
     double x;
     double a;
-    scanf ("%f",&r);
-    scanf ("%f",&π);
     scanf("%lf", &x);
     a = x/(r*π)*360.0;
     printf ("%lf" , a);  
